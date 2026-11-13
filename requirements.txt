@@ -1,0 +1,8 @@
+dash
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+nltk
+numpy
+scikit-learn
