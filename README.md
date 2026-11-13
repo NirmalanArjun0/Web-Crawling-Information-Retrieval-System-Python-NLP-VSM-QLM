@@ -3,6 +3,9 @@ Developed a web-based search engine using Selenium, BeautifulSoup, NLP preproces
 
 # Web Crawling & Information Retrieval System
 
+<img width="1872" height="887" alt="QLM" src="https://github.com/user-attachments/assets/0b33edcd-17ee-40a2-84e5-998e781a1e70" />
+<img width="1851" height="1056" alt="VSM" src="https://github.com/user-attachments/assets/7ac532e6-7d97-4c58-b024-55f9f6d39abe" />
+
 ### Python | Web Scraping | NLP | Inverted Indexing | Search Engine Algorithms
 
 ## Project Overview
